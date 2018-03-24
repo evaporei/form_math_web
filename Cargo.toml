@@ -1,0 +1,11 @@
+[package]
+name = "form_math_web"
+version = "0.1.0"
+authors = ["Otávio Pace <otaviopp8@gmail.com>"]
+
+[dependencies]
+iron = "0.5.1"
+mime = "0.2.3"
+router = "0.5.1"
+urlencoded = "0.5.0"
+math_utils = "0.1.0"
